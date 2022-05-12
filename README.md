@@ -17,9 +17,9 @@ PREPARE - Data collection and organization. Data was downloaded from Coursera. R
 
 PROCESS - No cleaning was required for this dataset as it was prepared for this exercise by Coursera. Cleaning was not in the scope of this exercise.
 
-ANALYZE - Created linear and non linear models. Evaluated each visually using Regression plots, Residual plots, Distribution plots and numerically using R-Squared and Meas Squared Error analysis. (see Jupyter Notebook script : ModelDevelopment.ipynb)
+ANALYZE - Created linear and non linear models. Evaluated each visually using Regression plots, Residual plots, Distribution plots and numerically using R-Squared (R^2) and Mean Squared Error (MSE) analysis. (see Jupyter Notebook script : ModelDevelopment.ipynb)
 
 SHARE - Summarized findings, conclusions and recommendations in the same Jupyter Notebook
 
 
-Note: I recreated the Jupyter notebook step by step in order understand each step of the process (was not just a cut & paste exercise)
+Note: I recreated the Jupyter notebook step by step in order to understand each step of the process (was not just a cut & paste exercise)
